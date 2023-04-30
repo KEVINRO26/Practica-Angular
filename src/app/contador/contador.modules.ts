@@ -9,10 +9,14 @@ import { ContadorComponent } from "./contador/contador.component";
     ],
     exports: [
         ContadorComponent
-        
+
     ]
     
 
+
+
+
+    
 
 
 
